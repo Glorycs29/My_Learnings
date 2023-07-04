@@ -1,3 +1,3 @@
 # Full JS Learnings: 
-- [Basic printing syntax]()
-- 
+- [Basic printing syntax](https://github.com/Glorycs29/My_Learnings/blob/main/JavaScript/Intro.js)
+ 
