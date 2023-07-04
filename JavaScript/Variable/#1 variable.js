@@ -7,5 +7,5 @@ a="Hello I'm also a string";
 //We can update the values of variables
 console.log("variable contains", a);
 
-//Types of variables: Premitive: number, string, boolena, null
+//Types of variables: Premitive: number, string, boolean, null, symbol
 
