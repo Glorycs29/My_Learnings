@@ -3,7 +3,6 @@
 //console.log("bin data", buffer);
 
 
-
 // another object
 let cap ={
     name: "Steve", 
@@ -41,7 +40,7 @@ delete cap.name;
 console.log("cap: ", cap);
 
 console.log("''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''");
-// using loop to print the keys of object
+// using loop to print the keys of the object
 
 // using loop to print the keys of object
 for(let key in cap){
@@ -50,3 +49,10 @@ for(let key in cap){
 
 let propKey = "age";
 console.log(cap[propKey]);
+console.log(cap.age);
+console.log(cap["age"]);
+
+// crux points
+// The value of the variable in the square bracket is being replaced and searched inside the object
+//whereas in the case of the dot, it assumes a value and searches accordingly
+//If any key is not defined then it prints undefined 
