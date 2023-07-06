@@ -1,10 +1,7 @@
 ## How to declare an array in JS:
 
- Array declaration :
- 
-
-
- 
+Array declaration:
+  
 ```
  let arr = [1,2,3,4,5];
  console.log(arr);         // printing 
