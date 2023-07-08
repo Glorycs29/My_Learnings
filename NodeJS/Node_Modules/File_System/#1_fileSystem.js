@@ -30,6 +30,15 @@ let fs = require("fs");
  // fs.rmdirSync("meridirectory");
 
 //👍fs.existSync -> if a file exist at a path-> true/false
-//👍fs.lstatSync->fs.lstatSync---ye btata hai ki ye path,
-//👍 file ka hai ya folder ka
+//👍fs.lstatSync->fs.lstatSync---ye btata hai ki ye path,file ka hai ya folder ka
+
+let doesPathExist = fs.existsSync("#2_childProcesses.js");
+console.log("doesPathExist: " + doesPathExist);
+
+//👉 fs.lstatSync
+let detailsObj = fs.lstatSync(__dirname + "\\#1_fileSystem.js");
+let ans = detailsObj.isFile();
+console.log("isFile: "+ ans);
+ans = detailsObj.isDirectory();
+console.log("isDirectory: "+ ans);
 
