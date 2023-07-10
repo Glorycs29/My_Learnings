@@ -1,6 +1,6 @@
 # Todo
-[] Help
-[] Organize
-[] Tree
-[] Global
-[] Good practices
+- [✅]Help
+- [❎]Organize
+- [❎]Tree
+- [❎]Global
+- [❎]Good practices
