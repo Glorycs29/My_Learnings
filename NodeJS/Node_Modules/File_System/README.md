@@ -106,7 +106,7 @@ console.log("isFile: "+ ans);
 ans = detailsObj.isDirectory();
 console.log("isDirectory: "+ ans);
 ```
-
-
+### #2_fileSystem.js
+[![#2_fileSydtem](https://github.com/Glorycs29/My_Learnings/blob/main/NodeJS/Node_Modules/File_System/Screenshot%20(375).png)]()
 
 
