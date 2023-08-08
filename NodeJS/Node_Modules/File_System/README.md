@@ -110,3 +110,7 @@ console.log("isDirectory: "+ ans);
 [![#2_fileSydtem](https://github.com/Glorycs29/My_Learnings/blob/main/NodeJS/Node_Modules/File_System/Screenshot%20(375).png)]()
 
 
+### #2_readFile.js
+[![#3_readFile](https://github.com/Glorycs29/My_Learnings/blob/main/NodeJS/Node_Modules/File_System/Screenshot%20(376).png)]()
+
+
